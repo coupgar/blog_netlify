@@ -1,8 +1,7 @@
 ---
 title: test image post
 date: 2018-07-20 22:24:14
-tags:test
-
+tags: test
 ---
 
 这里是图片 
